@@ -1,7 +1,7 @@
 ### Hey awesome people 👋, Welcome!
 ![Purple Pixelated Welcome Discord Profile Banner (1)](https://github.com/abhishek-sharma-2001/abhishek-sharma-2001/assets/88473765/d912dfd2-d2a9-4920-b448-892fad152dd1)
 
-Hello!👋 My name is Abhishek Sharma. I am from Terna Engineering college taking B.E in Information Technology 🎓. I am a passionate developer on a journey to create innovative solutions and explore the endless possibilities of code. 🚀
+Hello!👋 My name is Abhishek Sharma. I am a graduate from Terna Engineering college taking B.E in Information Technology [8.93 C.G.P.A (80%)]🎓. I am a passionate developer on a journey to create innovative solutions and explore the endless possibilities of code. 🚀
 
 
 I have a huge interest in coding 🐍 as well as web development 🌐
