@@ -10,5 +10,5 @@ I have a huge interest in coding 🐍 as well as web development 🌐
 - 🔭 I’m currently exploring django and react.
 - 📫 Reach me at abhishek.sharma.12.10.2001@gmail.com or connect on https://www.linkedin.com/in/abhisheksharma1210/
 - 🚀 My Portfolio website is https://www.abhisheksharma-porfolio.me/
-- 😄 Pronouns: He
-- ⚡ Fun fact: "Every successful project is the result of a well-rested coder! I sleep, I code, I conquer! 💪😴 #CodeConqueror"
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: "Spiders are world's best web developers.They don't even fear bugs".
